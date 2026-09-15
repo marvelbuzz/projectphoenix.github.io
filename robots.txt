@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/your-repo-name/sitemap.xml
+Sitemap: https://midnighttaleshorror.github.io/sitemap.xml
